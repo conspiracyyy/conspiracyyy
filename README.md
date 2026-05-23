@@ -22,10 +22,3 @@
 ## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://conspiracycode.vercel.app/)
-
-## GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=conspiracyyy&show_icons=true&theme=vision-friendly-dark" alt="conspiracy's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conspiracyyy&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="180" />
-</p>
